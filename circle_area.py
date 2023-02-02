@@ -1,5 +1,5 @@
+## Demonstation of the circle area
 from manim import *
-
 
 config.frame_height, config.frame_width = config.frame_width, config.frame_height
 config.pixel_height, config.pixel_width = config.pixel_width, config.pixel_height

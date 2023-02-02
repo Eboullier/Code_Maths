@@ -1,0 +1,50 @@
+https://www.youtube.com/@TheoremofBeethoven
+https://github.com/Elteoremadebeethoven/MyAnimations
+https://github.com/Varniex/manimation
+https://github.com/Tom-Edgar/MVPS
+https://github.com/abhijithmuthyala/manim-projects (a regarder)
+https://github.com/sparshg/animations (explore)
+https://github.com/BZoennchen/manim
+https://gitlab.com/cw-manim (explore)M
+
+Spiral:
+x(t) = a * cos(b * t)
+y(t) = a * sin(b * t)
+
+Lissajous curve:
+x(t) = A * sin(a * t + d)
+y(t) = B * sin(b * t)
+
+Hypotrochoid:
+x(t) = (R - r) * cos(t) + d * cos((R - r) / r * t)
+y(t) = (R - r) * sin(t) - d * sin((R - r) / r * t)
+
+Astroid:
+x(t) = a * cos(t)^3
+y(t) = a * sin(t)^3
+
+Cycloid:
+x(t) = a * (t - sin(t))
+y(t) = a * (1 - cos(t))
+
+Epicycloid:
+x(t) = (R + r) * cos(t) - r * cos((R / r + 1) * t)
+y(t) = (R + r) * sin(t) - r * sin((R / r + 1) * t)
+
+Butterflies curve:
+x(t) = sin(t) * (e^cos(t) - 2cos(4t) - (sin(t/12))^5)
+y(t) = cos(t) * (e^cos(t) - 2cos(4t) - (sin(t/12))^5)
+
+Heart shape:
+x(t) = 16 * sin(t)^3
+y(t) = 13 * cos(t) - 5 * cos(2t) - 2 * cos(3t) - cos(4t)
+
+Lemniscate of Bernoulli:
+x(t) = a * sqrt(2) * cos(t) / (sin(t)^2 + 1)
+y(t) = a * sqrt(2) * cos(t) * sin(t) / (sin(t)^2 + 1)
+
+Epitrochoid:
+x(t) = (R + r) * cos(t) - d * cos((R / r) * t)
+y(t) = (R + r) * sin(t) - d * sin((R / r) * t)
+
+Where a, b, A, B, R, r, d are parameters that can be adjusted to modify the shape.
